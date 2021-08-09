@@ -1,3 +1,3 @@
 # Designer
 
-ссылка на сам сайт: https://github.com/ArsenSheripov/Designer.git
+ссылка на сам сайт: https://arsensheripov.github.io/Designer/
